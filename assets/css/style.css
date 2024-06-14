@@ -115,6 +115,22 @@ main {
     width: 100%;
     background: url("../images/plane2.jpg") no-repeat center center/cover;
 }
+
+/* Flight Destinations */
+#flight-infos {
+    background: url('../images/Paris-Tower.jpg') no-repeat center/cover;
+    /* Handles responsivity without the need for a media query */
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#flight-infos div {
+    color:azure;
+    background-color: #252525(0, 0, 0, .7);
+    padding: 20px;
+    text-align: center;
+}
+
 /* Footer */
 #social-medias {
     text-align: center;
