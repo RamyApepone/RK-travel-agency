@@ -171,9 +171,18 @@ main {
 
 #social-medias i {
     font-size: 165%;
-    padding: 9%;
+    padding: 8%;
     color: #3a3a3a;
 }
+
+/* Media query for large and landscape mobile phone (from 576px and up) */
+@media screen and (min-width: 576px) {
+    #myphoto {
+        column-count: 2;
+        column-gap: 0;
+    }
+}
+
 /* Media query for tablets and larger (from 768px and up) */
 @media screen and (min-width: 768px) {
     /* Header */
@@ -206,14 +215,22 @@ main {
     /* Main content */
     main {
         /* Push the main content down */
-        margin-top: 80px;
+        margin-top: 78px;
     }
 
+    /* my gallery */
+    #myphoto {
+        column-count: 3;
+    }
 
     /* Large devices (laptops,desktops, 992px and up) */
     @media screen and (min-width: 992px) {
         #menu a:hover {
             border-bottom: 1px solid #3a3a3a;
+        }
+        /* my gallery */
+        #myphoto {
+            column-count: 4;
         }
     }
 } 
