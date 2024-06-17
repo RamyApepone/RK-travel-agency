@@ -150,6 +150,16 @@ main {
     color: white;
 }
 
+/* my gallery */
+#myphoto img {
+    width:100%;
+    line-height: 1em;
+}
+
+#myphoto {
+    line-height: 0;
+}
+
 /* Footer */
 #social-medias {
     text-align: center;
