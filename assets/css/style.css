@@ -100,14 +100,14 @@ main {
     margin-bottom: 22px;
     text-align: center;
     font-size: 240%;
-    color: grey;
+    color: black;
 }
 
 #the-reasons p {
     margin-bottom: 20px;
     text-align: center;
     font-size: 180%;
-    color:grey;
+    color:black;
 }
 /* Voyage section */
 #voyage {
@@ -118,17 +118,29 @@ main {
 
 /* Flight Destinations */
 #flight-infos {
-    background: url('../images/Paris-Tower.jpg') no-repeat center/cover;
+    width: 100%;
+    background: url('../images/Paris-Tower.jpg') no-repeat center center/cover;
     /* Handles responsivity without the need for a media query */
     display: flex;
     flex-wrap: wrap;
 }
 
 #flight-infos div {
-    color:azure;
+    color: white;
     background-color: #252525(0, 0, 0, .7);
     padding: 20px;
     text-align: center;
+    margin: auto;
+}
+   
+#flight-infos h2{
+    /* adding heading color */
+    color: black;
+}
+
+#flight-infos h3{
+    /* adding heading color */
+    color: black;
 }
 
 /* Footer */
