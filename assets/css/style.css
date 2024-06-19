@@ -16,6 +16,7 @@ body {
     /* generic style */
     color: #3a3a3a;
     font-family: 'lato', sans-serif;
+    background-color: #3a3a3a;
 }
 
 .hidden-h2 {
@@ -48,7 +49,7 @@ h1 {
 }
 
 #menu {
-    font-size: 100%;
+    font-size: 90%;
     letter-spacing: 4px;
     list-style-type: none;
 }
@@ -102,20 +103,20 @@ main {
 #the-reasons h2 {
     margin-bottom: 22px;
     text-align: center;
-    font-size: 240%;
+    font-size: 200%;
     color: black;
 }
 
 #the-reasons p {
     margin-bottom: 20px;
     text-align: center;
-    font-size: 160%;
+    font-size: 130%;
     color:black;
 }
 
 /* Voyage section */
 #voyage {
-    height: 590px;
+    height: 510px;
     width: 100%;
     background: url("../images/plane2.jpg") no-repeat center center/cover;
 }
@@ -151,12 +152,12 @@ main {
 }
 
 /* my gallery */
-#myphoto img {
+#mygallery img {
     width:100%;
     line-height: 1em;
 }
 
-#myphoto {
+#my-gallery {
     line-height: 0;
 }
 
@@ -167,17 +168,17 @@ main {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
+    background-color: white;
 }
 
 #social-medias i {
     font-size: 165%;
     padding: 8%;
-    color: #3a3a3a;
 }
 
 /* Media query for large and landscape mobile phone (from 576px and up) */
 @media screen and (min-width: 576px) {
-    #myphoto {
+    #mygallery {
         column-count: 2;
         column-gap: 0;
     }
@@ -207,7 +208,7 @@ main {
     }
 
     #logo {
-        font-size: 210%;
+        font-size: 140%;
         line-height: 79px;
         margin: 0 0.5rem;
     }
@@ -219,7 +220,7 @@ main {
     }
 
     /* my gallery */
-    #myphoto {
+    #mygallery {
         column-count: 3;
     }
 
@@ -229,7 +230,7 @@ main {
             border-bottom: 1px solid #3a3a3a;
         }
         /* my gallery */
-        #myphoto {
+        #mygallery {
             column-count: 4;
         }
     }
