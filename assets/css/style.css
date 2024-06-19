@@ -16,7 +16,6 @@ body {
     /* generic style */
     color: #3a3a3a;
     font-family: 'lato', sans-serif;
-    
 }
 
 .hidden-h2 {
@@ -113,6 +112,7 @@ main {
     font-size: 160%;
     color:black;
 }
+
 /* Voyage section */
 #voyage {
     height: 590px;
