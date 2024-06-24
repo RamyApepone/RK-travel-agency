@@ -103,14 +103,14 @@ main {
 #the-reasons h2 {
     margin-bottom: 22px;
     text-align: center;
-    font-size: 200%;
+    font-size: 125%;
     color: black;
 }
 
 #the-reasons p {
     margin-bottom: 20px;
-    text-align: center;
-    font-size: 130%;
+    text-align: left;
+    font-size: 110%;
     color:black;
 }
 
@@ -163,19 +163,31 @@ main {
 
 /* contact-us */
 #contact-us {
-    width: 90%;
     padding: 10px 18px;
     margin: 8px;
     display: inline-block;
-    border: 3px solid #ccc;
+    border: 3px solid yellow;
     box-sizing: border-box;
-    font-size: 140%;
-    text-align: center;
+    font-size: 120%;
     text-transform: capitalize;
-    padding: 32px 0;
-    display: flex;
+    
     justify-content: space-evenly;
     color: black;
+}
+.text-input {
+    width: 50%;
+    height: 20px;
+    margin: 2px 0 18px 0;
+    border-radius: 2px;
+    padding: 0 5px;
+
+}
+
+.submit-button {
+    width: 40%;
+    padding: 10px;
+    font-size: 110%;
+    color:blue
 }
 
 /* Footer */
