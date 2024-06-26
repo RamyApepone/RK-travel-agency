@@ -160,12 +160,12 @@ main {
 }
 
 /* my gallery */
-#mygallery img {
+#mydestination img {
     width:100%;
     line-height: 1em;
 }
 
-#my-gallery {
+#my-destination {
     line-height: 0;
 }
 
@@ -214,7 +214,7 @@ main {
 
 /* Media query for large and landscape mobile phone (from 576px and up) */
 @media screen and (min-width: 576px) {
-    #mygallery {
+    #mydestination {
         column-count: 2;
         column-gap: 0;
     }
@@ -256,7 +256,7 @@ main {
     }
 
     /* my gallery */
-    #mygallery {
+    #mydestination {
         column-count: 3;
     }
 
@@ -266,7 +266,7 @@ main {
             border-bottom: 1px solid #3a3a3a;
         }
         /* my gallery */
-        #mygallery {
+        #mydestination {
             column-count: 4;
         }
     }
