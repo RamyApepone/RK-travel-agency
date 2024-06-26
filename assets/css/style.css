@@ -96,21 +96,28 @@ main {
 
 /* the reasons section */
 #the-reasons {
-    width: 95%;
+    width: 94%;
     margin: 25px auto;
 }
 
 #the-reasons h2 {
-    margin-bottom: 22px;
+    margin-bottom: 15px;
     text-align: center;
-    font-size: 125%;
+    font-size: 110%;
     color: black;
+    
 }
-
-#the-reasons p {
-    margin-bottom: 20px;
+#the-reasons h3 {
+    margin-bottom: 17px;
     text-align: left;
     font-size: 110%;
+    color: yellowgreen;
+    text-decoration-line: underline;
+}
+#the-reasons p {
+    margin-bottom: 15px;
+    text-align: left;
+    font-size: 90%;
     color:black;
 }
 
@@ -170,7 +177,6 @@ main {
     box-sizing: border-box;
     font-size: 120%;
     text-transform: capitalize;
-    
     justify-content: space-evenly;
     color: black;
 }
