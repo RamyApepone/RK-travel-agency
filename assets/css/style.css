@@ -96,27 +96,28 @@ main {
 
 /* the reasons section */
 #the-reasons {
-    width: 94%;
+    width: 96%;
     margin: 25px auto;
 }
 
 #the-reasons h2 {
     margin-bottom: 15px;
     text-align: center;
-    font-size: 110%;
-    color: black;
+    font-size: 130%;
+    color: blue;
     
 }
-#the-reasons h3 {
+
+#the-reasons h4 {
     margin-bottom: 17px;
     text-align: left;
-    font-size: 110%;
-    color: yellowgreen;
-    text-decoration-line: underline;
+    font-size: 90%;
+    color: black;
 }
+
 #the-reasons p {
     margin-bottom: 15px;
-    text-align: left;
+    text-align: center;
     font-size: 90%;
     color:black;
 }
