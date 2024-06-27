@@ -27,68 +27,38 @@ RK Travel agency, our goal is to make your travel experience as smooth and stres
 * [Local clone](#local-clone)
 ### [Credits](#credits)
 ### [Acknowledgement](#acknowledgement)
-# Features
-- user friendly
-- Responsive website. 
-The website was build for large and small devices such as laptop,tablet,mobile phone.
+## User Experience (UX)
+RK Travel agency undenstand the importance of user experience in the travel industry. 
 
-Existing Features
+RK Travel agency strive to provide a user-friendly website that prioritizes usability.
 
-- Navigation Bar 
-  - Featured on three pages : |Home| Destination | Contact us|
-  - The pages is identical, It will make more easy for the users to navigate to the website.
+Users can book flight by fill out the form. and also can the flight on the phone.
 
-![Navigation bar](assets/images/navigation-bar.png)
+### User Stories
+* What to expect for first time visit
+   * users will be able to understand the objective of the website. 
+   * very easy to navigate to the website
+   * Contact form provided.
+* what expeting after
+   * Business information
+   * the agency contact information
+## Feature 
+* RK travel agency website is targeting families,couples who likes affordable vacations.
+* users can use the contact form for booking.
+* Responsive website
 
-  - In this section the users can navigate the 3 pages, and they also able to go back to the previous page.
+### Existing Features
+  * Navigation Bar 
+  * Content three pages
+  * The navigation Bar is inclunded the page logo, Home page, Destination page, Contact us page.
+  * users can easily click to the page links and also will be able go back to the main page.
 
-![website-descriptions](assets/images/website-descriptions.png)
+  ![Navigation](assets/images/navigation.png)
 
-  - The reason section
+  * Main Heading
+      * This content nice background image that show the airport and some airplane. 
+      * Destination page is madeup with nice holiday destination. 
+      * Contact us, content contact form.
 
-    - This is section give users the benefits of travelling with RK travel agency. in this section user will be able to read about the agency.
+  ![Main page](assets/images/mainpage.png)
 
-# Flights infos section
-- This section the user will be able to see flight informations.
-
-![flight-information](assets/images/flight-information.png)
-
-- The Footer
-    - The footer we added social media links to the footer. the links will open new atb when the user click to the social media links.
-    - Users can contact us also from our social medias pages.
-
-![footer](assets/images/footer.png)
-
-# Destinations
-
-Here are some beautiful images, city users can book holiday.
-
-![destination](assets/images/destination.png)
-
-# contact us
-
-- In this page users can fill the contact form to book an appointment with the agency.
-
-![contact-us](assets/images/contact-us.png)
-
-# Testing
-
-# Validator
-
-# unfixed Bugs
-
-# Deployment
-
-# Credit 
-I used code from codeinstitute [Love Running](https://code-institute-org.github.io/love-running-2.0/index.html)
-
-# content
-
-- [Home,Destination] page was token from codeinsitute(https://code-institute-org.github.io/love-running-2.0/index.html)
-
-- [form textarea] the content was token from[https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_textarea]
-
-- the icons from my website were taken from [https://fontawesome.com/]
-
-- images from my website were taken from # Images
-[https://www.pexels.com/search/airplane/]
