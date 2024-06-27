@@ -1,9 +1,32 @@
 
 # RK TRAVEL AGENCY
-This is a travel agency website. users can book holiday by filling the contact form, once the contact form is filled, the agency will contact you.
+RK Travel agency, We offer booking flight through online form. We have user-friendly form. To book your flight with us simply fill out the resquest form available on our website.
 
-![Landing page](assets/images/landing-page.png)
+RK Travel agency, our goal is to make your travel experience as smooth and stress free as possible.
 
+![Responsive image](assets/images/rk-travel.png)
+
+[Click Here to view RK TRAVEL AGENCY](https://ramyapepone.github.io/RK-travel-agency/)
+---
+## Table of contents
+### [User Experience (UX)](#user-experience-ux)
+* [User Stories](#user-stories)
+
+### [Features](#features)
+* [Existing Features](#Existing-Features)
+### [Design](#design)
+### [Technologies used](#technologies-used)
+### [Frameworks,Libraries and language used](#frameworkslibraries-and-language-used)
+### [Testing](#testing-1)
+* [Validation Results](#validation-results)
+* [Manual Testing](#manuel-testing)
+* [Lighthouse](#lighthouse-report)
+### [Deployment and local development](#deployment-and-local-development)
+* [GitHub Pages](#github-pages)
+* [Forking the Github Respository](#forking-the-github-respository)
+* [Local clone](#local-clone)
+### [Credits](#credits)
+### [Acknowledgement](#acknowledgement)
 # Features
 - user friendly
 - Responsive website. 
