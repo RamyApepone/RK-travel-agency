@@ -187,7 +187,6 @@ main {
     margin: 2px 0 18px 0;
     border-radius: 2px;
     padding: 0 5px;
-
 }
 
 .submit-button {
@@ -197,6 +196,12 @@ main {
     color:blue
 }
 
+#thank-you {
+    margin-bottom: 17px;
+    text-align: left;
+    font-size: 90%;
+    color: black;
+}
 /* Footer */
 #social-medias {
     text-align: center;
@@ -265,7 +270,7 @@ main {
         #menu a:hover {
             border-bottom: 1px solid #3a3a3a;
         }
-        /* my gallery */
+        /* my destination */
         #mydestination {
             column-count: 4;
         }
