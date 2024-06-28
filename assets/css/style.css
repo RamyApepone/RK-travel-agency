@@ -210,12 +210,6 @@ main {
     font-size: 165%;
     padding: 8%;
 }
-/* Media query for large and landscape mobile phone (from 576px and up) */
-@media screen and (min-width: 576px) {
-    #contact-us {
-        column-count: 0;
-    }
-}
 
 /* Media query for large and landscape mobile phone (from 576px and up) */
 @media screen and (min-width: 576px) {
@@ -264,14 +258,7 @@ main {
     #mydestination {
         column-count: 3;
     }
-
-    /* Large devices (laptops,desktops, 992px and up) */
-    @media screen and (min-width: 992px) {
-        #contact-us {
-            column-count: 0;
-        }
-    }
-
+    
     /* Large devices (laptops,desktops, 992px and up) */
     @media screen and (min-width: 992px) {
         #menu a:hover {
